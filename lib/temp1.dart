@@ -1,4 +1,4 @@
-/*
+
 final ScrollController _scrollController = ScrollController();
 List<String> items = [];
 bool loading = false, allLoaded = false;
@@ -121,4 +121,4 @@ Widget build(BuildContext context) {
   );
   }
   },
-  ),*/
+  ),
