@@ -10,8 +10,6 @@ I used Cloud Firestore for database and Cloud Storage for Firebase for storage.
 
 In order to reduce the server cost, the queries are displayed to the user with paging. To access data offline, data is saved on the device using Hive.
 
-![g_AdobeExpress](https://user-images.githubusercontent.com/55411723/194292393-a0bcddd9-ce09-4882-87a2-dd74c6178ce6.gif)
-
 ![g_AdobeExpress (1)](https://user-images.githubusercontent.com/55411723/194293712-b33d2116-5565-4de0-9644-2a90c9ce0b06.gif)
 
 At the first startup, there is an introductory screen consisting of three screens, followed by the start screen.![onboard](https://user-images.githubusercontent.com/55411723/167292545-540b7f01-cc90-46ff-8483-c532e182b7b1.png)
