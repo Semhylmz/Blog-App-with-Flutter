@@ -16,11 +16,10 @@ At the first startup, there is an introductory screen consisting of three screen
 
 There are two navigation bars, the homepage and the category. The content can be read from the detail page by clicking on the relevant content to be read. On the category page, curious content can be easily found.
 
-![light](https://user-images.githubusercontent.com/55411723/188281903-284dc677-0144-43b6-8a6b-b1ff10c5192b.png)
+![light](https://user-images.githubusercontent.com/55411723/196144358-6a9069b4-a8d1-4887-9d05-f49fbeb2e023.png)
+
 
 And dark theme.
 
-![dark](https://user-images.githubusercontent.com/55411723/188281905-34694407-8963-440f-b9c2-516a4affd0d5.png)
-
-
+![dark](https://user-images.githubusercontent.com/55411723/196144371-7448c043-ce21-43fd-a2da-53cb08c7e9f8.png)
 
