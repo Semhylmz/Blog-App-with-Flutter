@@ -12,6 +12,8 @@ In order to reduce the server cost, the queries are displayed to the user with p
 
 ![g_AdobeExpress (1)](https://user-images.githubusercontent.com/55411723/194293712-b33d2116-5565-4de0-9644-2a90c9ce0b06.gif)
 
+https://drive.google.com/file/d/1PXRgx8dNRXCe2Smiwd58ENJ_M_f5cqA3/view?usp=sharing
+
 At the first startup, there is an introductory screen consisting of three screens, followed by the start screen.
 
 ![about1](https://user-images.githubusercontent.com/55411723/197778094-792f28d3-85bc-4eca-acad-17e72052f509.png)
