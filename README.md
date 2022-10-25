@@ -10,7 +10,7 @@ I used Cloud Firestore for database and Cloud Storage for Firebase for storage.
 
 In order to reduce the server cost, the queries are displayed to the user with paging. To access data offline, data is saved on the device using Hive.
 
-![g_AdobeExpress (1)](https://user-images.githubusercontent.com/55411723/194293712-b33d2116-5565-4de0-9644-2a90c9ce0b06.gif)
+App video:
 
 https://drive.google.com/file/d/1PXRgx8dNRXCe2Smiwd58ENJ_M_f5cqA3/view?usp=sharing
 
