@@ -15,18 +15,12 @@ I used Cloud Firestore for database and Cloud Storage for storage to quickly del
 Some features in the first version:
 
 - Light/Dark theme.
-- All or the copied part of the post on the desired platform
-   sharing.
+- All or the copied part of the post on the desired platform sharing.
 - The font can be enlarged or reduced with two fingers.
-- Previous/next content
-   You can access the content before/after leaving the relevant category.
-- Last access date to the post
-   With sqflite, the user is notified of the last access time.
-- Adding a favorite post.
-   Data using Sqflite to access favorite content offline
-   saved to the device.
-- YouTube Data API v3
-   Watching videos on YouTube from within the application.
+- The previous/next content can be accessed with the button before/after leaving the relevant category.
+- The last access date to the post is recorded in the database with sqlite, and the user is informed about the last access time in the post.
+- Adding a favorite post. With Sqflite, data is saved on the device to access favorite content offline.
+- Watching video on YouTube from within the App with YouTube Data API v3.
 - Sharing the downloadable link of the application.
 - Forwarding to Instagram, WhatsApp, Gmail, YouTube account.
 
