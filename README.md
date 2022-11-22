@@ -32,10 +32,6 @@ In the first use, the information screen is followed by the start screen. And th
 
 ![about1](https://user-images.githubusercontent.com/55411723/197778094-792f28d3-85bc-4eca-acad-17e72052f509.png)
 
-
-You can participate in the internal testing program.
-https://play.google.com/apps/internaltest/4700323687691392346
-
 Light theme.
 
 ![light1](https://user-images.githubusercontent.com/55411723/197777359-ed095bf9-258f-4e42-b19e-77eecf857161.png)
@@ -43,3 +39,6 @@ Light theme.
 And dark theme.
 
 ![dark1](https://user-images.githubusercontent.com/55411723/197777341-e0702d67-31a8-425d-ade2-3978d26035fa.png)
+
+You can participate in the internal testing program.
+https://play.google.com/apps/internaltest/4700323687691392346
