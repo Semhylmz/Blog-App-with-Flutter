@@ -30,15 +30,14 @@ https://drive.google.com/file/d/1PXRgx8dNRXCe2Smiwd58ENJ_M_f5cqA3/view?usp=shari
 
 In the first use, the information screen is followed by the start screen. And the about part.
 
-![about1](https://user-images.githubusercontent.com/55411723/197778094-792f28d3-85bc-4eca-acad-17e72052f509.png)
+![info](https://user-images.githubusercontent.com/55411723/206755832-4f2338cf-93d7-4b0b-8e2a-479f6646d2a6.png)
 
 Light theme.
 
-![light1](https://user-images.githubusercontent.com/55411723/197777359-ed095bf9-258f-4e42-b19e-77eecf857161.png)
+![light](https://user-images.githubusercontent.com/55411723/206753666-1d393d93-814b-4c0c-9b81-0b1295abd347.png)
 
 And dark theme.
 
-![dark1](https://user-images.githubusercontent.com/55411723/197777341-e0702d67-31a8-425d-ade2-3978d26035fa.png)
+![dark](https://user-images.githubusercontent.com/55411723/206754427-bddcb6e8-d568-479d-bf57-d68ff2aab6e6.png)
 
-You can participate in the internal testing program.
-https://play.google.com/apps/internaltest/4700323687691392346
+The app is currently in the process of internal testing on the Google Play store.
