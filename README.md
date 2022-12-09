@@ -19,14 +19,14 @@ Some features in the first version:
 - The font can be enlarged or reduced with two fingers.
 - The previous/next content can be accessed with the button before/after leaving the relevant category.
 - The last access date to the post is recorded in the database with sqlite, and the user is informed about the last access time in the post.
-- Adding a favorite post. With Sqflite, data is saved on the device to access favorite content offline.
+- Adding seven editor selected weekly content and favorite posts. With sqflite, data is saved on the device for offline access to favorite content and editörs pick.
 - Watching video on YouTube from within the App with YouTube Data API v3.
 - Sharing the downloadable link of the application.
 - Forwarding to Instagram, WhatsApp, Gmail, YouTube account.
 
 Application video:
 
-https://drive.google.com/file/d/1PXRgx8dNRXCe2Smiwd58ENJ_M_f5cqA3/view?usp=sharing
+https://www.youtube.com/watch?v=3Ae_veDsGwY
 
 In the first use, the information screen is followed by the start screen. And the about part.
 
