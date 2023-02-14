@@ -28,6 +28,8 @@ Some features in the first version:
 - Double click like/unlike.
 - Long click sharing.
 
+Paly Store: https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar
+
 Application video:
 
 https://www.youtube.com/watch?v=3Ae_veDsGwY
@@ -43,5 +45,3 @@ Light theme.
 And dark theme.
 
 ![dark](https://user-images.githubusercontent.com/55411723/206754427-bddcb6e8-d568-479d-bf57-d68ff2aab6e6.png)
-
-The app is currently in the process of internal testing on the Google Play store.
