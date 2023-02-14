@@ -30,9 +30,7 @@ Some features in the first version:
 
 Paly Store: https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar
 
-Application video:
-
-https://www.youtube.com/watch?v=3Ae_veDsGwY
+Application video: https://www.youtube.com/watch?v=3Ae_veDsGwY
 
 In the first use, the information screen is followed by the start screen. And the about part.
 
