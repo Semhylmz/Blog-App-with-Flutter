@@ -34,7 +34,9 @@ Features such as sending notifications and commenting on content will be added w
 <img src="https://user-images.githubusercontent.com/55411723/221411976-332c7877-2b9c-45de-b7c4-854916be2fdd.png" witdh="40" height="120"><a/>
 
 ## Application video
-  https://www.youtube.com/watch?v=3Ae_veDsGwY
+  <a href="https://www.youtube.com/watch?v=3Ae_veDsGwY">
+    <img src="https://www.youtube.com/" width="20" height="60"><a/>
+  
 
 In the first use, the information screen is followed by the start screen. And the about part.
 
