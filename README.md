@@ -38,14 +38,13 @@ Features such as sending notifications and commenting on content will be added w
 <img src="https://user-images.githubusercontent.com/55411723/221413219-0eb54050-c390-4cbe-b9b7-ebde2c0515fc.png" witdh="240" height="120"><a/>
 
 
-In the first use, the information screen is followed by the start screen. And the about part.
+> In the first use, the information screen is followed by the start screen. And the about part.
 
-![info](https://user-images.githubusercontent.com/55411723/206755832-4f2338cf-93d7-4b0b-8e2a-479f6646d2a6.png)
+![206755832-4f2338cf-93d7-4b0b-8e2a-479f6646d2a6](https://user-images.githubusercontent.com/55411723/221414286-34d788d7-ad74-4b72-93dd-1ff56b9e103d.png)
 
-Light theme.
+> Light theme.
 
-![light](https://user-images.githubusercontent.com/55411723/206753666-1d393d93-814b-4c0c-9b81-0b1295abd347.png)
+![206753666-1d393d93-814b-4c0c-9b81-0b1295abd347](https://user-images.githubusercontent.com/55411723/221414292-519f38da-a13f-4cdb-a4e9-73275c3a2519.png)
 
-And dark theme.
-
-![dark](https://user-images.githubusercontent.com/55411723/206754427-bddcb6e8-d568-479d-bf57-d68ff2aab6e6.png)
+> And dark theme.
+![206754427-bddcb6e8-d568-479d-bf57-d68ff2aab6e6](https://user-images.githubusercontent.com/55411723/221414300-63d1d323-9f76-42a3-9f0b-0037a78417c9.png)
