@@ -29,9 +29,7 @@ Some features in the first version:
 - Double click like/unlike.
 - Long click sharing.
 
-<img src="https://user-images.githubusercontent.com/55411723/221411976-332c7877-2b9c-45de-b7c4-854916be2fdd.png" witdh="20" height="60"/>(https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar)
-
-[![play_store](https://user-images.githubusercontent.com/55411723/221411976-332c7877-2b9c-45de-b7c4-854916be2fdd.png)](https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar)
+<img src="https://user-images.githubusercontent.com/55411723/221411976-332c7877-2b9c-45de-b7c4-854916be2fdd.png" witdh="20" height="60" a href="https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar" />
 
 Application video: https://www.youtube.com/watch?v=3Ae_veDsGwY
 
