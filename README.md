@@ -47,4 +47,5 @@ Features such as sending notifications and commenting on content will be added w
 ![206753666-1d393d93-814b-4c0c-9b81-0b1295abd347](https://user-images.githubusercontent.com/55411723/221414292-519f38da-a13f-4cdb-a4e9-73275c3a2519.png)
 
 > And dark theme.
+  
 ![206754427-bddcb6e8-d568-479d-bf57-d68ff2aab6e6](https://user-images.githubusercontent.com/55411723/221414300-63d1d323-9f76-42a3-9f0b-0037a78417c9.png)
