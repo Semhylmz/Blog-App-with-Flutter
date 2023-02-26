@@ -16,19 +16,20 @@ Features such as sending notifications and commenting on content will be added w
 
 Some features in the first version:
 
-- Light/Dark theme.
-- Notification sending with FCM and weekly scheduled notifications.
-- All or the copied part of the post on the desired platform sharing.
-- The font can be enlarged or reduced with two fingers.
-- The previous/next content can be accessed with the button before/after leaving the relevant category.
-- The last access date to the post is recorded in the database with sqlite, and the user is informed about the last access time in the post.
-- Adding seven editor selected weekly content and favorite posts. With sqflite, data is saved on the device for offline access to favorite content and editörs pick.
-- Watching video on YouTube from within the App with YouTube Data API v3.
-- Sharing the downloadable link of the application.
-- Forwarding to Instagram, WhatsApp, Gmail, YouTube apps.
-- Double click like/unlike.
-- Long click sharing.
+* Light/Dark theme.
+* Notification sending with FCM and weekly scheduled notifications.
+* All or the copied part of the post on the desired platform sharing.
+* The font can be enlarged or reduced with two fingers.
+* The previous/next content can be accessed with the button before/after leaving the relevant category.
+* The last access date to the post is recorded in the database with sqlite, and the user is informed about the last access time in the post.
+* Adding seven editor selected weekly content and favorite posts. With sqflite, data is saved on the device for offline access to favorite content and editörs pick.
+* Watching video on YouTube from within the App with YouTube Data API v3.
+* Sharing the downloadable link of the application.
+* Forwarding to Instagram, WhatsApp, Gmail, YouTube apps.
+* Double click like/unlike.
+* Long click sharing.
 
+> You can get the application from the Play Store.
 <a href="https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar">
 <img src="https://user-images.githubusercontent.com/55411723/221411976-332c7877-2b9c-45de-b7c4-854916be2fdd.png" witdh="40" height="120"><a/>
 
