@@ -30,8 +30,9 @@ Some features in the first version:
 - Long click sharing.
 
 <a href="https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar">
-<img src="https://user-images.githubusercontent.com/55411723/221411976-332c7877-2b9c-45de-b7c4-854916be2fdd.png" witdh="20" height="60"><a/>
+<img src="https://user-images.githubusercontent.com/55411723/221411976-332c7877-2b9c-45de-b7c4-854916be2fdd.png" witdh="40" height="120"><a/>
 
+  
 Application video: https://www.youtube.com/watch?v=3Ae_veDsGwY
 
 In the first use, the information screen is followed by the start screen. And the about part.
