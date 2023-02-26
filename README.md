@@ -17,6 +17,7 @@ Features such as sending notifications and commenting on content will be added w
 Some features in the first version:
 
 - Light/Dark theme.
+- Notification sending with FCM and weekly scheduled notifications.
 - All or the copied part of the post on the desired platform sharing.
 - The font can be enlarged or reduced with two fingers.
 - The previous/next content can be accessed with the button before/after leaving the relevant category.
@@ -28,7 +29,7 @@ Some features in the first version:
 - Double click like/unlike.
 - Long click sharing.
 
-Paly Store: https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar
+![play_store]()
 
 Application video: https://www.youtube.com/watch?v=3Ae_veDsGwY
 
