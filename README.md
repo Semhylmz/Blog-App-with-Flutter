@@ -29,7 +29,7 @@ Some features in the first version:
 - Double click like/unlike.
 - Long click sharing.
 
-![play_store]()
+![play_store(https://user-images.githubusercontent.com/55411723/221411820-c8732f42-0857-4b15-bd08-7af57ed41ee8.png)](https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar)
 
 Application video: https://www.youtube.com/watch?v=3Ae_veDsGwY
 
