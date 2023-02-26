@@ -29,7 +29,7 @@ Some features in the first version:
 - Double click like/unlike.
 - Long click sharing.
 
-[![name](link to image on GH)](link to your URL)
+<img src="https://user-images.githubusercontent.com/55411723/221411976-332c7877-2b9c-45de-b7c4-854916be2fdd.png" witdh="200" height="600"/>
 
 [![play_store](https://user-images.githubusercontent.com/55411723/221411976-332c7877-2b9c-45de-b7c4-854916be2fdd.png)](https://play.google.com/store/apps/details?id=com.ateizmfikrinecevaplar)
 
