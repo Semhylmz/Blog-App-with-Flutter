@@ -5,16 +5,16 @@ I'm developing a mobile app with Flutter for an organization. The application is
 When the application is opened for the first time, information about the application is given. In subsequent startups, the user is greeted with the splash screen and 
 then directed to the main screen.
 
-Editor's picks and video of the week are updated every Friday by checking the database.
+Editor's picks and video of the week are updated every Monday by checking the database.
 I used Provider package for state management.
 Internet connection status management was done by creating flow.
 Posts are displayed to the user with pagination to reduce server cost.
 
 I used Cloud Firestore for database and Cloud Storage for storage.
 
-Features such as sending notifications and commenting on content will be added with updates.
+More features will be added with updates.
 
-## Some features in the first version:
+## Some features in the current version:
 
 * Light/Dark theme.
 * Notification sending with FCM and weekly scheduled notifications.
