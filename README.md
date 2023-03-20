@@ -15,7 +15,7 @@ I used Cloud Firestore for database and Cloud Storage for storage.
 More features will be added with updates.
 
 ## Some features in the current version:
-
+* MVVM architecture
 * Light/Dark theme.
 * Notification sending with FCM and weekly scheduled notifications.
 * All or the copied part of the post on the desired platform sharing.
